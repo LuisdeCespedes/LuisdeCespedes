@@ -22,14 +22,8 @@ I’ve just completed an intensive 16-week bootcamp at School of Code, and I’m
 - Tech communities and forums to share and grow together
 
 ## 📫 How to Reach Me
-- **LinkedIn:** [Luis de Cespedes](https://www.linkedin.com/in/luisdecespedes)
-- **Email:** luis.de.cespedes@example.com
-- **Twitter:** [@LuisdeCespedes](https://twitter.com/LuisdeCespedes)
+- **LinkedIn:** [Luis de Cespedes](https://www.linkedin.com/in/mr-montoya/)
+- **Email:** lewisofbristol@gmail.com
 
 ## ⚡ Fun Fact
 I’ve got a knack for solving complex problems with elegant code and I’m always on the lookout for the next big challenge!
-
-<!---
-LuisdeCespedes/LuisdeCespedes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
