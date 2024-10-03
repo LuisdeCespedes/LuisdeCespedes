@@ -4,15 +4,17 @@
 I’ve just completed an intensive 16-week bootcamp at School of Code, and I’m now a Full Stack Developer with a strong foundation in modern web technologies. I am passionate about building dynamic and responsive web applications and continuously learning new skills to stay ahead in the tech world.
 
 ## 🛠️ Skills
-- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite
-- **Backend:** Node.js, Express (if applicable)
-- **Tools & Platforms:** Docker, AWS, Postman, Figma
-- **Other:** Git, CI/CD, Agile methodologies
+- **Frontend:** HTML, CSS, JavaScript, TypeScript, React, Next.js, Vite  
+- **Back End:** Node.js, Express, PostgreSQL, REST API, Postman, Supabase  
+- **Tools:** Docker, AWS, Git, CI/CD, Agile methodologies  
+- **Design:** Blender (3D) | Photoshop | UI/UX Design | User Centred Design | Prototyping  
 
 ## 🚀 What I’m Currently Working On
 - Exploring advanced features in React and Next.js
 - Building scalable applications using Docker and deploying them on AWS
 - Designing intuitive and user-friendly interfaces with Figma
+- Currently seeking job opportunities while finalizing my portfolio
+- Studying advanced CSS animations
 
 ## 💞️ I’m Looking to Collaborate On
 - Exciting open-source projects
